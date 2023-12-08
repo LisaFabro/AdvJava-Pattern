@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvJava-Patterns.iml" filepath="$PROJECT_DIR$/AdvJava-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern-Builder/DesignPattern-Builder.iml" filepath="$PROJECT_DIR$/DesignPattern-Builder/DesignPattern-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern-Factory/DesignPattern-Factory.iml" filepath="$PROJECT_DIR$/DesignPattern-Factory/DesignPattern-Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern-Singleton/DesignPattern-Singleton.iml" filepath="$PROJECT_DIR$/DesignPattern-Singleton/DesignPattern-Singleton.iml" />
+    </modules>
+  </component>
+</project>
