@@ -4,18 +4,12 @@
 //Del primo si stamperanno le informazioni di default, del secondo si cambieranno
 //le informazioni e poi si stamperanno a video
 public class Main {
-    private static User user;
-    public static User getUser(){
-        if(user == null){
-            user = new User();
-        }
-        return user;
-    }
+
     public static void main(String[] args) {
-        User user1 = getUser();
+        User user1 = User.getUser();
         user1.stampUser();
 
-        User user2 = getUser();
+        User user2 = User.getUser();
         user2.setName("Mario");
         user2.setAge(17);
         user2.stampUser();
